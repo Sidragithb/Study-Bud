@@ -587,4 +587,3 @@ Feel free to contribute to the StudyBuddy project by submitting issues or pull r
 
 ---
 
-This README provides a structured guide to your Django project, covering the essential components and their interactions. Customize it further based on the specific requirements of your project.
